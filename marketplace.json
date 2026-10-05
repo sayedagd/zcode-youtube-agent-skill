@@ -1,0 +1,13 @@
+{
+  "name": "zcode-youtube-agent-skill",
+  "plugins": [
+    {
+      "name": "youtube-agent",
+      "source": "./",
+      "version": "0.1.0",
+      "description": "Eleven skills that run a YouTube channel - scripts with scored hooks, title+thumbnail packaging, retention analysis, edit decision lists, chapters, Shorts mining, SEO, comment replies, upload planning and channel audits. Dependency-free Python tools included; no API keys, nothing publishes for you.",
+      "displayName": "YouTube Agent",
+      "category": "productivity"
+    }
+  ]
+}
